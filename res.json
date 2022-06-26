@@ -1,0 +1,1518 @@
+[
+  {
+    "id": "55527321",
+    "premium": false,
+    "billing_type": {
+      "id": "standard_plus",
+      "name": "Стандарт плюс"
+    },
+    "relations": [],
+    "name": "Flutter разработчик",
+    "insider_interview": null,
+    "response_letter_required": false,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": null,
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": {
+      "city": "Москва",
+      "street": "Варшавское шоссе",
+      "building": "9с1",
+      "description": null,
+      "lat": 55.699467,
+      "lng": 37.625594,
+      "raw": "Москва, Варшавское шоссе, 9с1",
+      "metro": {
+        "station_name": "Тульская",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.142",
+        "line_id": "9",
+        "lat": 55.70961,
+        "lng": 37.622569
+      },
+      "metro_stations": [
+        {
+          "station_name": "Тульская",
+          "line_name": "Серпуховско-Тимирязевская",
+          "station_id": "9.142",
+          "line_id": "9",
+          "lat": 55.70961,
+          "lng": 37.622569
+        }
+      ]
+    },
+    "allow_messages": true,
+    "experience": {
+      "id": "between1And3",
+      "name": "От 1 года до 3 лет"
+    },
+    "schedule": {
+      "id": "fullDay",
+      "name": "Полный день"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "department": null,
+    "contacts": null,
+    "description": "<p> </p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Разработка кросс-платформенных мобильных приложений на Flutter для платформ iOS и Android;</p> </li> <li> <p>Поддержка и рефакторинг кодовой базы;</p> </li> <li> <p>Интеграция с бэкэндом;</p> </li> <li> <p>Участие в код ревью;</p> </li> <li> <p>Участие в развитии продукта.</p> </li> </ul> <strong>Требования:</strong> <ul> <li> <p>Наличие опыта клиентской разработки (мобильный или веб-стек) от 2 лет;</p> </li> <li> <p>Понимание хотя бы одного из архитектурных паттернов для создания клиентских приложений (Redux/MVVM/MVC/и т.д.);</p> </li> <li> <p>Желание учиться и находить решения возникающих проблем;</p> </li> <li> <p>Самостоятельность и soft-скилы для активного взаимодействия с проектной командой.</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Наличие вашего кода в open source, активность в github;</li> <li>Минимальные навыки UI/UX-дизайна;</li> <li>Понимание DevOps-процессов в мобильной разработке;</li> <li>Опыт работы с Gitlab, JIRA, Confluence.</li> </ul> <strong>&quot;Плюшки&quot;:</strong> <ul> <li> <p>Работа в стабильной и большой компании (мы – дочка ИнтерРАО), которой не страшны кризисные явления в экономике;</p> </li> <li> <p>Отсутствие бюрократии и самостоятельность проектных команд в принятии решений: можно многое предложить, инициативу поддержим;</p> </li> <li> <p>Периодические внутренние митапы, мы обмениваемся опытом даже в условиях карантина;</p> </li> <li> <p>Компенсация учебных курсов;</p> </li> <li> <p>Конкурентная белая зарплата, оформление по ТК РФ;</p> </li> <li> <p>ДМС (после испытательного срока);</p> </li> <li> <p>Удаленная работа или офис в 10 минутах от м. Тульская в стильном, светлом и просторном офисе.</p> </li> </ul>",
+    "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper blockquote,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0;\n}\n\n.b-vacancy-desc {\n    overflow: visible;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-size: inherit !important;\n    line-height: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    display: inline;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n    display: inline;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_svg {\n    width: 100%;\n    height: 100%;\n    position: absolute;\n    top: 0;\n    left: 0;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    max-width: 690px;\n    margin: 0 auto;\n    position: relative;\n    overflow: hidden;\n    word-break: normal;\n    font-family: 'Arial', sans-serif;\n    color: #231f20;\n    font-size: 14px;\n    line-height: 19px;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_header {\n    position: relative;\n}\n\n.tmpl_hh_header__image {\n    position: relative;\n    z-index: 6;\n    width: 97%;\n}\n\n.tmpl_hh_header__logo {\n    position: absolute;\n    width: 43%;\n    top: 10%;\n    left: 6%;\n    z-index: 6;\n}\n\n.tmpl_hh_header__line {\n    position: absolute;\n    width: 100%;\n    left: 0;\n    bottom: -11%;\n    z-index: 5;\n    background: #0046b2;\n    height: 0;\n    padding-bottom: 12%;\n}\n\n.tmpl_hh_content {\n    padding: 15% 9.5% 10% 8.7%;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    display: block;\n    margin: 4.7% 0 2%;\n}\n\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    font-size: 17px;\n    line-height: 19px;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content b:first-child,\n.tmpl_hh_content strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content ul,\n.tmpl_hh_content ul ul {\n    list-style: none;\n}\n\n.tmpl_hh_content ol {\n    list-style: none;\n    counter-reset: list;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 2.4%;\n}\n\n.tmpl_hh_content ul li,\n.tmpl_hh_content ol li {\n    position: relative;\n    margin-bottom: 8px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 8px;\n}\n\n.tmpl_hh_content ol > li {\n    counter-increment: list;\n}\n\n.tmpl_hh_content ul > li:before,\n.tmpl_hh_content ol > li:before {\n    position: absolute;\n    left: -14px;\n    top: -1px;\n}\n\n.tmpl_hh_content ul > li:before {\n    content: \"\\2022\";\n    color: #0046b2;\n    font-size: 18px;\n}\n\n.tmpl_hh_content ol > li:before {\n    content: counter(list) \".\";\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_footer {\n    position: relative;\n    background: #0046b2;\n    height: 50px;\n}\n\n.tmpl_hh_header__circle {\n    position: absolute;\n    bottom: -7%;\n    right: 9.4%;\n    z-index: 7;\n    width: 32%;\n}\n\na.tmpl_hh_header__link {\n    position: absolute;\n    width: 190px;\n    height: 40px;\n    right: 19px;\n    top: 49px;\n    background: #0046B2;\n    border: 2px solid #FFFFFF;\n    box-shadow: 0px 0px 10px rgb(0 70 178 / 30%);\n    border-radius: 100px;\n    font-size: 14px;\n    line-height: 14px;\n    color: #FFFFFF;\n    z-index: 7;\n    box-sizing: border-box;\n    padding: 11px 21px 0;\n}\n\na.tmpl_hh_header__link img {\n    display: inline;\n    width: 18px;\n    position: absolute;\n    right: 20px;\n    top: 8px;\n}\n\np.tmpl_hh_footnote {\n    word-wrap: break-word;\n    font-size: 12px;\n    line-height: 14px;\n    opacity: 0.5;\n}\n\np.tmpl_hh_footnote span {\n    display: block;\n    margin-bottom: 7px;\n}\n\n/*Mob*/\n@media (max-width: 699px) {\n    .tmpl_hh_header__circle {\n        display: none;\n    }\n\n    .tmpl_hh_header__image {\n        width: 153%;\n    }\n\n    .tmpl_hh_header__logo {\n        width: 75%;\n        top: 7.5%;\n        left: 7%;\n    }\n\n    .tmpl_hh_header__line {\n        bottom: -10%;\n        width: 150%;\n    }\n\n    .tmpl_hh_content {\n        padding: 23.1% 6.8% 15.5%;\n    }\n\n    .tmpl_hh_content p,\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n        margin: 10.5% 0 4.2%;\n    }\n\n    .tmpl_hh_content ol,\n    .tmpl_hh_content ul {\n        margin-left: 5.1%;\n    }\n\n    .tmpl_hh_content ul li,\n    .tmpl_hh_content ol li {\n        position: relative;\n        margin-bottom: 8px;\n    }\n\n    .tmpl_hh_content ul ul,\n    .tmpl_hh_content ul ol,\n    .tmpl_hh_content ol ol,\n    .tmpl_hh_content ol ul {\n        margin-top: 8px;\n    }\n\n    .tmpl_hh_content ul > li:before,\n    .tmpl_hh_content ol > li:before {\n        left: -14.5px;\n    }\n\n    .tmpl_hh_footer {\n        height: 34px;\n    }\n\n    a.tmpl_hh_header__link {\n        right: auto;\n        left: 10px;\n        top: auto;\n        bottom: 10%;\n    }\n}\n</style>\n\n<script>\n//\n\n//\n</script>\n\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <a class=\"tmpl_hh_header__link\" href=\"https://hh.ru/article/29854?from=button_read\" target=\"_blank\">Читать ИТ-статью <img src=\"https://hhcdn.ru/ichameleon/215453.svg\" alt=\"\"></a>\n        <div class=\"tmpl_hh_header__image\">\n            <img src=\"https://hhcdn.ru/ichameleon/199782.png\" alt=\"\">\n        </div>\n        <div class=\"tmpl_hh_header__circle\">\n            <img src=\"https://hhcdn.ru/ichameleon/199783.png\" alt=\"\">\n        </div>\n        <div class=\"tmpl_hh_header__logo\">\n            <img src=\"https://hhcdn.ru/ichameleon/202540.svg\" alt=\"\">\n        </div>\n        <div class=\"tmpl_hh_header__line\"></div>\n    </div>\n    <div class=\"tmpl_hh_content\">\n         <p>СИГМА создает и внедряет ИТ-решения для энергетики и ЖКХ с 2005 года. Наши разработки используют крупнейшие энергетические компании России: Интер РАО, Россети, РусГидро, ФСК ЕЭС. Мы помогаем создавать и распределять электроэнергию — то, что нужно всем отраслям и каждому человеку. </p>\n         <p>Основа успеха СИГМЫ — команда из более 1600 ИТ-профессионалов. Мы ценим инициативу, стремление развиваться, азарт в освоении новых задач и ответственное отношение к делу. У нас много уникальных задач, широкий стек технологий, множество интересной и ответственной работы, связанной с цифровизацией российской энергетики и развитием отечественной ИТ-отрасли.</p>\n         <p><b>Наши достижения:</b></p>\n        <ul>\n            <li>№ 1 среди крупнейших российских поставщиков ИТ-решений для ТЭК (TAdviser)</li>\n            <li>ТОП-50 крупнейших ИТ-компаний России (CNews, TAdviser)</li>\n            <li>ТОП-5 крупнейших поставщиков собственных ИТ-решений из Реестра отечественного ПО (TAdviser)</li>\n            <li>ТОП-5 быстрорастущих российских ИТ-компаний (CNews)</li>\n        </ul>\n         <p>В СИГМЕ разработано более 20 отраслевых решений, 12 из которых включены в Реестр российского ПО. За 17 лет работы компания реализовала более 300 инновационных проектов регионального и федерального уровня. СИГМА имеет статус Центра компетенций по 1С, Oracle, SAP, ОС «Аврора» (Sailfish). Деятельность в области информационной безопасности ведется на основе лицензий ФСБ и ФСТЭК.</p>\n         <p>С 2021 года СИГМА входит в группу «Интер РАО». Офисы СИГМЫ находятся в Москве, Санкт-Петербурге и 10 других городах. Мы готовы к сотрудничеству с соискателями в любом регионе России. Будем рады знакомству и плодотворной работе с вами!<br><br></p>\n        <p> </p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Разработка кросс-платформенных мобильных приложений на Flutter для платформ iOS и Android;</p> </li> <li> <p>Поддержка и рефакторинг кодовой базы;</p> </li> <li> <p>Интеграция с бэкэндом;</p> </li> <li> <p>Участие в код ревью;</p> </li> <li> <p>Участие в развитии продукта.</p> </li> </ul> <strong>Требования:</strong> <ul> <li> <p>Наличие опыта клиентской разработки (мобильный или веб-стек) от 2 лет;</p> </li> <li> <p>Понимание хотя бы одного из архитектурных паттернов для создания клиентских приложений (Redux/MVVM/MVC/и т.д.);</p> </li> <li> <p>Желание учиться и находить решения возникающих проблем;</p> </li> <li> <p>Самостоятельность и soft-скилы для активного взаимодействия с проектной командой.</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Наличие вашего кода в open source, активность в github;</li> <li>Минимальные навыки UI/UX-дизайна;</li> <li>Понимание DevOps-процессов в мобильной разработке;</li> <li>Опыт работы с Gitlab, JIRA, Confluence.</li> </ul> <strong>\"Плюшки\":</strong> <ul> <li> <p>Работа в стабильной и большой компании (мы – дочка ИнтерРАО), которой не страшны кризисные явления в экономике;</p> </li> <li> <p>Отсутствие бюрократии и самостоятельность проектных команд в принятии решений: можно многое предложить, инициативу поддержим;</p> </li> <li> <p>Периодические внутренние митапы, мы обмениваемся опытом даже в условиях карантина;</p> </li> <li> <p>Компенсация учебных курсов;</p> </li> <li> <p>Конкурентная белая зарплата, оформление по ТК РФ;</p> </li> <li> <p>ДМС (после испытательного срока);</p> </li> <li> <p>Удаленная работа или офис в 10 минутах от м. Тульская в стильном, светлом и просторном офисе.</p> </li> </ul></div>\n    \n    <div class=\"tmpl_hh_footer\"></div>\n</div>\n\n",
+    "vacancy_constructor_template": null,
+    "key_skills": [
+      {
+        "name": "Flutter"
+      },
+      {
+        "name": "iOS"
+      },
+      {
+        "name": "Android"
+      },
+      {
+        "name": "Клиентская разработка"
+      }
+    ],
+    "accept_handicapped": false,
+    "accept_kids": false,
+    "archived": false,
+    "response_url": null,
+    "specializations": [
+      {
+        "id": "1.221",
+        "name": "Программирование, Разработка",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.50",
+        "name": "Системы управления предприятием (ERP)",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.82",
+        "name": "Инженер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.9",
+        "name": "Web инженер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.10",
+        "name": "Web мастер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      }
+    ],
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "code": null,
+    "hidden": false,
+    "quick_responses_allowed": false,
+    "driver_license_types": [],
+    "accept_incomplete_resumes": false,
+    "employer": {
+      "id": "238161",
+      "name": "СИГМА",
+      "url": "https://api.hh.ru/employers/238161",
+      "alternate_url": "https://hh.ru/employer/238161",
+      "logo_urls": {
+        "original": "https://hhcdn.ru/employer-logo-original/644158.png",
+        "90": "https://hhcdn.ru/employer-logo/3017784.png",
+        "240": "https://hhcdn.ru/employer-logo/3017785.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=238161",
+      "trusted": true
+    },
+    "published_at": "2022-06-26T16:29:53+0300",
+    "created_at": "2022-06-26T16:29:53+0300",
+    "initial_created_at": "2022-05-18T16:29:51+0300",
+    "negotiations_url": null,
+    "suitable_resumes_url": null,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=55527321",
+    "has_test": false,
+    "test": null,
+    "alternate_url": "https://hh.ru/vacancy/55527321",
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": false,
+    "languages": []
+  },
+  {
+    "id": "66547552",
+    "premium": false,
+    "billing_type": {
+      "id": "standard_plus",
+      "name": "Стандарт плюс"
+    },
+    "relations": [],
+    "name": "Flutter Developer",
+    "insider_interview": null,
+    "response_letter_required": false,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": null,
+    "allow_messages": true,
+    "experience": {
+      "id": "between1And3",
+      "name": "От 1 года до 3 лет"
+    },
+    "schedule": {
+      "id": "remote",
+      "name": "Удаленная работа"
+    },
+    "employment": {
+      "id": "part",
+      "name": "Частичная занятость"
+    },
+    "department": null,
+    "contacts": null,
+    "description": "<p>Требуется Dart (Flutter) разработчик для качественной реализации фронтенда кросс-платформенного мобильного приложения.</p> <p><strong>Обязанности:</strong></p> <p>- Новый проект, у вас будет возможность заложить архитектуру и поучаствовать в создании приложения;</p> <p>- Разработка кросс-платформенного мобильного приложения;</p> <p>- Интеграция с бэкендом.</p> <p><strong>Требования:</strong></p> <p>- Разработка концепций;</p> <p>- Решение сложных, интересных и неоднозначных задач;</p> <p>- Опыт проектирования приложений;</p> <p>- Опыт коммерческой разработки Android приложений;</p> <p>- Опыт работы с Flutter/Dart, приветствуется знание Kotlin/Java и Swift;</p> <p>- Умение писать чистый, аккуратный и легко поддерживаемый код;</p> <p>- Наличие реализованных приложений;</p> <p>- Работа с бэкедом через REST;</p> <p>- Знание GIT.</p> <p><strong>Будет плюсом:</strong></p> <p>- Навыки UI/UX-дизайна, опыт работы с Figma;</p> <p>- Знание современных тенденций мобильных приложений;</p> <p>- Опыт веб-разработки;</p> <p>- Опыт работы с масштабируемыми системами.</p> <p><strong>Условия:</strong></p> <p>- Достойный уровень заработной платы, с кандидатом оговаривается индивидуально;</p> <p>- Возможность стать частью уникального проекта, не имеющего аналогов;</p> <p>- Гибкий график и возможность работать удалённо.<br /><br />Прототип: https://www.figma.com/proto/cvqX21kYK5F9Zl2TKcouMU/%D0%95%D0%BB%D0%B5%D0%BD%D0%B0-%D0%A5%D0%B5%D0%BB%D0%BF?node-id=523%3A3831&amp;scaling=scale-down&amp;page-id=522%3A3620&amp;starting-point-node-id=523%3A3831&amp;show-proto-sidebar=1<br /><br />Юзкейсы:<br />https://docs.google.com/document/d/1quu3MsPXDnE7SHirbuXNUKuEidXuxEICOnalQ68ypnE/edit#</p>",
+    "branded_description": null,
+    "vacancy_constructor_template": null,
+    "key_skills": [
+      {
+        "name": "Java"
+      },
+      {
+        "name": "Git"
+      },
+      {
+        "name": "Kotlin"
+      },
+      {
+        "name": "Flutter"
+      },
+      {
+        "name": "Android"
+      },
+      {
+        "name": "REST"
+      },
+      {
+        "name": "Dart"
+      }
+    ],
+    "accept_handicapped": false,
+    "accept_kids": false,
+    "archived": false,
+    "response_url": null,
+    "specializations": [
+      {
+        "id": "1.221",
+        "name": "Программирование, Разработка",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.50",
+        "name": "Системы управления предприятием (ERP)",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.82",
+        "name": "Инженер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.9",
+        "name": "Web инженер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.10",
+        "name": "Web мастер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      }
+    ],
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "code": null,
+    "hidden": false,
+    "quick_responses_allowed": false,
+    "driver_license_types": [],
+    "accept_incomplete_resumes": false,
+    "employer": {
+      "id": "1960996",
+      "name": "Телеком-ВИСТ",
+      "url": "https://api.hh.ru/employers/1960996",
+      "alternate_url": "https://hh.ru/employer/1960996",
+      "logo_urls": null,
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1960996",
+      "trusted": true
+    },
+    "published_at": "2022-06-26T15:24:08+0300",
+    "created_at": "2022-06-26T15:24:08+0300",
+    "initial_created_at": "2022-06-02T15:24:08+0300",
+    "negotiations_url": null,
+    "suitable_resumes_url": null,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=66547552",
+    "has_test": false,
+    "test": null,
+    "alternate_url": "https://hh.ru/vacancy/66547552",
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": true,
+    "languages": []
+  },
+  {
+    "id": "66547553",
+    "premium": false,
+    "billing_type": {
+      "id": "standard_plus",
+      "name": "Стандарт плюс"
+    },
+    "relations": [],
+    "name": "Flutter Developer",
+    "insider_interview": null,
+    "response_letter_required": false,
+    "area": {
+      "id": "2",
+      "name": "Санкт-Петербург",
+      "url": "https://api.hh.ru/areas/2"
+    },
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": null,
+    "allow_messages": true,
+    "experience": {
+      "id": "between1And3",
+      "name": "От 1 года до 3 лет"
+    },
+    "schedule": {
+      "id": "remote",
+      "name": "Удаленная работа"
+    },
+    "employment": {
+      "id": "part",
+      "name": "Частичная занятость"
+    },
+    "department": null,
+    "contacts": null,
+    "description": "<p>Требуется Dart (Flutter) разработчик для качественной реализации фронтенда кросс-платформенного мобильного приложения.</p> <p><strong>Обязанности:</strong></p> <p>- Новый проект, у вас будет возможность заложить архитектуру и поучаствовать в создании приложения;</p> <p>- Разработка кросс-платформенного мобильного приложения;</p> <p>- Интеграция с бэкендом.</p> <p><strong>Требования:</strong></p> <p>- Разработка концепций;</p> <p>- Решение сложных, интересных и неоднозначных задач;</p> <p>- Опыт проектирования приложений;</p> <p>- Опыт коммерческой разработки Android приложений;</p> <p>- Опыт работы с Flutter/Dart, приветствуется знание Kotlin/Java и Swift;</p> <p>- Умение писать чистый, аккуратный и легко поддерживаемый код;</p> <p>- Наличие реализованных приложений;</p> <p>- Работа с бэкедом через REST;</p> <p>- Знание GIT.</p> <p><strong>Будет плюсом:</strong></p> <p>- Навыки UI/UX-дизайна, опыт работы с Figma;</p> <p>- Знание современных тенденций мобильных приложений;</p> <p>- Опыт веб-разработки;</p> <p>- Опыт работы с масштабируемыми системами.</p> <p><strong>Условия:</strong></p> <p>- Достойный уровень заработной платы, с кандидатом оговаривается индивидуально;</p> <p>- Возможность стать частью уникального проекта, не имеющего аналогов;</p> <p>- Гибкий график и возможность работать удалённо.<br /><br />Прототип: https://www.figma.com/proto/cvqX21kYK5F9Zl2TKcouMU/%D0%95%D0%BB%D0%B5%D0%BD%D0%B0-%D0%A5%D0%B5%D0%BB%D0%BF?node-id=523%3A3831&amp;scaling=scale-down&amp;page-id=522%3A3620&amp;starting-point-node-id=523%3A3831&amp;show-proto-sidebar=1<br /><br />Юзкейсы:<br />https://docs.google.com/document/d/1quu3MsPXDnE7SHirbuXNUKuEidXuxEICOnalQ68ypnE/edit#</p>",
+    "branded_description": null,
+    "vacancy_constructor_template": null,
+    "key_skills": [
+      {
+        "name": "Java"
+      },
+      {
+        "name": "Git"
+      },
+      {
+        "name": "Kotlin"
+      },
+      {
+        "name": "Flutter"
+      },
+      {
+        "name": "Android"
+      },
+      {
+        "name": "REST"
+      },
+      {
+        "name": "Dart"
+      }
+    ],
+    "accept_handicapped": false,
+    "accept_kids": false,
+    "archived": false,
+    "response_url": null,
+    "specializations": [
+      {
+        "id": "1.221",
+        "name": "Программирование, Разработка",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.50",
+        "name": "Системы управления предприятием (ERP)",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.82",
+        "name": "Инженер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.9",
+        "name": "Web инженер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.10",
+        "name": "Web мастер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      }
+    ],
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "code": null,
+    "hidden": false,
+    "quick_responses_allowed": false,
+    "driver_license_types": [],
+    "accept_incomplete_resumes": false,
+    "employer": {
+      "id": "1960996",
+      "name": "Телеком-ВИСТ",
+      "url": "https://api.hh.ru/employers/1960996",
+      "alternate_url": "https://hh.ru/employer/1960996",
+      "logo_urls": null,
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1960996",
+      "trusted": true
+    },
+    "published_at": "2022-06-26T15:24:08+0300",
+    "created_at": "2022-06-26T15:24:08+0300",
+    "initial_created_at": "2022-06-02T15:24:08+0300",
+    "negotiations_url": null,
+    "suitable_resumes_url": null,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=66547553",
+    "has_test": false,
+    "test": null,
+    "alternate_url": "https://hh.ru/vacancy/66547553",
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": true,
+    "languages": []
+  },
+  {
+    "id": "66547555",
+    "premium": false,
+    "billing_type": {
+      "id": "standard_plus",
+      "name": "Стандарт плюс"
+    },
+    "relations": [],
+    "name": "Flutter Developer",
+    "insider_interview": null,
+    "response_letter_required": false,
+    "area": {
+      "id": "78",
+      "name": "Самара",
+      "url": "https://api.hh.ru/areas/78"
+    },
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": null,
+    "allow_messages": true,
+    "experience": {
+      "id": "between1And3",
+      "name": "От 1 года до 3 лет"
+    },
+    "schedule": {
+      "id": "remote",
+      "name": "Удаленная работа"
+    },
+    "employment": {
+      "id": "part",
+      "name": "Частичная занятость"
+    },
+    "department": null,
+    "contacts": null,
+    "description": "<p>Требуется Dart (Flutter) разработчик для качественной реализации фронтенда кросс-платформенного мобильного приложения.</p> <p><strong>Обязанности:</strong></p> <p>- Новый проект, у вас будет возможность заложить архитектуру и поучаствовать в создании приложения;</p> <p>- Разработка кросс-платформенного мобильного приложения;</p> <p>- Интеграция с бэкендом.</p> <p><strong>Требования:</strong></p> <p>- Разработка концепций;</p> <p>- Решение сложных, интересных и неоднозначных задач;</p> <p>- Опыт проектирования приложений;</p> <p>- Опыт коммерческой разработки Android приложений;</p> <p>- Опыт работы с Flutter/Dart, приветствуется знание Kotlin/Java и Swift;</p> <p>- Умение писать чистый, аккуратный и легко поддерживаемый код;</p> <p>- Наличие реализованных приложений;</p> <p>- Работа с бэкедом через REST;</p> <p>- Знание GIT.</p> <p><strong>Будет плюсом:</strong></p> <p>- Навыки UI/UX-дизайна, опыт работы с Figma;</p> <p>- Знание современных тенденций мобильных приложений;</p> <p>- Опыт веб-разработки;</p> <p>- Опыт работы с масштабируемыми системами.</p> <p><strong>Условия:</strong></p> <p>- Достойный уровень заработной платы, с кандидатом оговаривается индивидуально;</p> <p>- Возможность стать частью уникального проекта, не имеющего аналогов;</p> <p>- Гибкий график и возможность работать удалённо.<br /><br />Прототип: https://www.figma.com/proto/cvqX21kYK5F9Zl2TKcouMU/%D0%95%D0%BB%D0%B5%D0%BD%D0%B0-%D0%A5%D0%B5%D0%BB%D0%BF?node-id=523%3A3831&amp;scaling=scale-down&amp;page-id=522%3A3620&amp;starting-point-node-id=523%3A3831&amp;show-proto-sidebar=1<br /><br />Юзкейсы:<br />https://docs.google.com/document/d/1quu3MsPXDnE7SHirbuXNUKuEidXuxEICOnalQ68ypnE/edit#</p>",
+    "branded_description": null,
+    "vacancy_constructor_template": null,
+    "key_skills": [
+      {
+        "name": "Java"
+      },
+      {
+        "name": "Git"
+      },
+      {
+        "name": "Kotlin"
+      },
+      {
+        "name": "Flutter"
+      },
+      {
+        "name": "Android"
+      },
+      {
+        "name": "REST"
+      },
+      {
+        "name": "Dart"
+      }
+    ],
+    "accept_handicapped": false,
+    "accept_kids": false,
+    "archived": false,
+    "response_url": null,
+    "specializations": [
+      {
+        "id": "1.221",
+        "name": "Программирование, Разработка",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.50",
+        "name": "Системы управления предприятием (ERP)",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.82",
+        "name": "Инженер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.9",
+        "name": "Web инженер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.10",
+        "name": "Web мастер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      }
+    ],
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "code": null,
+    "hidden": false,
+    "quick_responses_allowed": false,
+    "driver_license_types": [],
+    "accept_incomplete_resumes": false,
+    "employer": {
+      "id": "1960996",
+      "name": "Телеком-ВИСТ",
+      "url": "https://api.hh.ru/employers/1960996",
+      "alternate_url": "https://hh.ru/employer/1960996",
+      "logo_urls": null,
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1960996",
+      "trusted": true
+    },
+    "published_at": "2022-06-26T15:24:08+0300",
+    "created_at": "2022-06-26T15:24:08+0300",
+    "initial_created_at": "2022-06-02T15:24:08+0300",
+    "negotiations_url": null,
+    "suitable_resumes_url": null,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=66547555",
+    "has_test": false,
+    "test": null,
+    "alternate_url": "https://hh.ru/vacancy/66547555",
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": true,
+    "languages": []
+  },
+  {
+    "id": "66705445",
+    "premium": false,
+    "billing_type": {
+      "id": "standard_plus",
+      "name": "Стандарт плюс"
+    },
+    "relations": [],
+    "name": "Flutter разработчик",
+    "insider_interview": null,
+    "response_letter_required": false,
+    "area": {
+      "id": "2759",
+      "name": "Ташкент",
+      "url": "https://api.hh.ru/areas/2759"
+    },
+    "salary": {
+      "from": 3000000,
+      "to": 10000000,
+      "currency": "UZS",
+      "gross": true
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": {
+      "city": "Ташкент",
+      "street": "улица Тараса Шевченко",
+      "building": "21",
+      "description": null,
+      "lat": 41.297217,
+      "lng": 69.281722,
+      "raw": "Ташкент, улица Тараса Шевченко, 21",
+      "metro": null,
+      "metro_stations": []
+    },
+    "allow_messages": true,
+    "experience": {
+      "id": "between1And3",
+      "name": "От 1 года до 3 лет"
+    },
+    "schedule": {
+      "id": "fullDay",
+      "name": "Полный день"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "department": null,
+    "contacts": null,
+    "description": "<strong>Обязанности:</strong> <p>- Разработка приложения на мобильные платформы (Android/iOS и т.д.);;<br />- Поддержка, устранение проблем и развитие продуктов компании<br />- Разработка тестовой документации на новый функционал, актуализация уже имеющейся;<br />- Взаимодействие с командой разработки для исправления багов;<br />- Анализ и оптимизация существующего программного кода</p> <strong>Требования:</strong> <p>- Техническое образование<br />- Коммуникабельности и умение работать в команде<br />- Опыт работы на Flutter от 2 лет коммерческой разработки;<br />- Опыт пиксельной верстки с Figma;<br />- Аналитический склад мышления<br />- Опыт работы в Jira, Asana, Trello;<br />- Опыт работы REST API обязательно!<br />- Умение работать c чужим кодом и оптимизировать его;<br />- Умение самостоятельно решать задачи, оценивать и декомпозировать GetX (!)</p> <strong>Условия:</strong> <p>Работа в офисе в центре Ташкента.<br />Режим работы 5/2.<br />С 9 до 6</p>",
+    "branded_description": null,
+    "vacancy_constructor_template": null,
+    "key_skills": [
+      {
+        "name": "Android"
+      },
+      {
+        "name": "iOS"
+      },
+      {
+        "name": "Аналитическое мышление"
+      },
+      {
+        "name": "REST API"
+      },
+      {
+        "name": "Мобильные приложения"
+      },
+      {
+        "name": "GetX"
+      }
+    ],
+    "accept_handicapped": false,
+    "accept_kids": false,
+    "archived": false,
+    "response_url": null,
+    "specializations": [
+      {
+        "id": "1.221",
+        "name": "Программирование, Разработка",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.50",
+        "name": "Системы управления предприятием (ERP)",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.82",
+        "name": "Инженер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.9",
+        "name": "Web инженер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.10",
+        "name": "Web мастер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      }
+    ],
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "code": null,
+    "hidden": false,
+    "quick_responses_allowed": false,
+    "driver_license_types": [],
+    "accept_incomplete_resumes": false,
+    "employer": {
+      "id": "1979549",
+      "name": "СП ООО IST TELEKOM",
+      "url": "https://api.hh.ru/employers/1979549",
+      "alternate_url": "https://hh.ru/employer/1979549",
+      "logo_urls": {
+        "240": "https://hhcdn.ru/employer-logo/3409406.jpeg",
+        "90": "https://hhcdn.ru/employer-logo/3409405.jpeg",
+        "original": "https://hhcdn.ru/employer-logo-original/742111.jpg"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1979549",
+      "trusted": true
+    },
+    "published_at": "2022-06-26T14:39:20+0300",
+    "created_at": "2022-06-26T14:39:20+0300",
+    "initial_created_at": "2022-06-08T14:39:20+0300",
+    "negotiations_url": null,
+    "suitable_resumes_url": null,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=66705445",
+    "has_test": false,
+    "test": null,
+    "alternate_url": "https://hh.ru/vacancy/66705445",
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": false,
+    "languages": []
+  },
+  {
+    "id": "66957210",
+    "premium": false,
+    "billing_type": {
+      "id": "standard_plus",
+      "name": "Стандарт плюс"
+    },
+    "relations": [],
+    "name": "Senior Flutter Developer",
+    "insider_interview": null,
+    "response_letter_required": false,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+      "from": null,
+      "to": 350000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": null,
+    "allow_messages": true,
+    "experience": {
+      "id": "between3And6",
+      "name": "От 3 до 6 лет"
+    },
+    "schedule": {
+      "id": "remote",
+      "name": "Удаленная работа"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "department": null,
+    "contacts": null,
+    "description": "<p>Мы охотно берем в работу социально-значимые проекты и проекты, несущие пользу людям. Поэтому сейчас ищем старшего Flutter-разработчик в одну из двух наших команд. Наша задача — разработка мобильного приложения для планшета. Планшет будет встроен в беспилотный автомобиль и будет отображать основную информацию для водителя.</p> <p><strong>Кого мы ищем:</strong></p> <ul> <li> <p>наличие хотя бы одного приложения в app store и опыт коммерческой разработки на Flutter от 2-х лет;</p> </li> <li> <p>может грамотно построить архитектуру приложения с нуля и выбрать оптимальный стек технологий;</p> </li> <li> <p>готов активно влиять на технические решения проекта;</p> </li> <li> <p>понимает особенности разработки клиент-серверных приложений;</p> </li> <li> <p>есть в наличии завершенные проекты для IOS или Android;</p> </li> <li> <p>имеет опыт работы с Git, CI/CD;</p> </li> <li> <p>знает Apple HIG и Material design;</p> </li> <li> <p>умеет и готов писать unit тесты.</p> </li> </ul> <p><strong>Evrone и Flutter</strong></p> <p>Команда <strong>Evrone</strong> занимается продуктовой разработкой стартапов и помогает развиваться взрослому бизнесу в России, США и Европе.</p> <p>Совсем недавно мы разрабатывали CRM для KFC, помогали Сбермаркету, запустили сервис для обучения программированию DinoLab, создали b2b-платформу eAcademie для L’Oreal и поработали с бэкендом для видеостриминга MORE.TV для СТС.</p> <p>Последний из проектов на Flutter, где реализовали медицинское приложение для стартапа <strong>Medcorder</strong>: приложение для телефонов, улучшающее процесс коммуникации между доктором и пациентом. За основу классические технологии Google: хостинг Storagе, Google Cloud, распознавание речи Google Speech Recognition и бэкэнд Google Firebase.</p> <p>Или другой проект <strong>Aerovu</strong> — это мобильное приложение для контроля симптомов астмы, которое напоминает вовремя принять лекарства. С Aerovu больные видят более полную картину своего состояния. Для нашей разработки мы выбрали связку Flutter + Rails backend, PostgreSQL, Redis и Swagger для документации API.</p> <p><strong>Почему Evrone:</strong></p> <ul> <li>Никакого легаси, приложения разрабатываются “с нуля”;</li> <li>Удаленная фултайм работу. Нам не важно, из какой точки мира вы работаете, важен только результат;</li> <li>При формировании команды проекта учитываем профессиональные или личные интересы разработчиков. По желанию меняем проекты, не даем стагнировать;</li> <li>Гибкий график. Достаточно синхронизировать тайм-зоны и иметь пересечения рабочего времени с командой;</li> <li>Работу в разновозрастном, разнополом и потрясающе дружном и профессиональном коллективе;</li> <li>Хорошо организованный воркфлоу, отсутствие бюрократии. Работа на доверии.</li> </ul> <p><strong>Бонусы и премии:</strong></p> <ul> <li><strong>Evrone Benefits:</strong> годовой бюджет можно тратить на ДМС и здоровье, спорт, курсы иностранного языка, обучение и конференции;</li> <li>Автоматическая индексация зарплаты без необходимости кого-то об этом просить, а также повышение зарплаты по мере роста компетенций;</li> <li>Дополнительная <strong>премия за выступления</strong> на конференциях и митапах;</li> <li>Проведение <strong>технических интервью </strong>оплачивается отдельно;</li> <li><strong>OpenSource:</strong> контрибьютите в популярные проекты с открытым исходным кодом, мы оплатим часы, которые вы на это потратили. Например, мы выложили в открытый доступ плагин для записи звука.</li> </ul> <p><strong>Обучение и рост компетенций:</strong></p> <ul> <li>У нас есть культура менторства. В повседневных задачах и планировании карьеры будет помогать наставник;</li> <li>Развивать профессиональный уровень можно с помощью системы ассессмента Evrone Challenge;</li> <li>Есть внутренняя библиотека с электронными книгами и записанными курсами.</li> <li>Мы активно участвуем в жизни коммьюнити и берем интервью у лидеров мнений. Последнее из интервью: Тим Снит, product-менеджера Flutter и Dart.</li> </ul> <p><strong>Возможности посещения и участия в мероприятиях</strong></p> <ul> <li>Если вы хотите выступить на конференции, мы поможем вам подготовиться и оплатим все ваши расходы на поездку и участие;</li> <li>Мы также проводим собственные конференции и митапы и любим собираться на них всем нашим дружным коллективом. Разумеется, все расходы на это оплачиваются компанией.</li> </ul> <p><strong>Отдых и развиртуализация</strong></p> <p>Мы считаем обязательным собираться вместе несколько раз в году. Поэтому, где бы вы ни находились, мы обязательно увидимся лично (компания оплатит вам дорогу и все расходы на корпоратив).</p>",
+    "branded_description": null,
+    "vacancy_constructor_template": null,
+    "key_skills": [
+      {
+        "name": "Flutter"
+      },
+      {
+        "name": "Dart"
+      },
+      {
+        "name": "Мобильные приложения"
+      }
+    ],
+    "accept_handicapped": false,
+    "accept_kids": false,
+    "archived": false,
+    "response_url": null,
+    "specializations": [
+      {
+        "id": "1.221",
+        "name": "Программирование, Разработка",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.50",
+        "name": "Системы управления предприятием (ERP)",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.82",
+        "name": "Инженер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.9",
+        "name": "Web инженер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.10",
+        "name": "Web мастер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      }
+    ],
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "code": null,
+    "hidden": false,
+    "quick_responses_allowed": false,
+    "driver_license_types": [],
+    "accept_incomplete_resumes": false,
+    "employer": {
+      "id": "598471",
+      "name": "evrone.ru",
+      "url": "https://api.hh.ru/employers/598471",
+      "alternate_url": "https://hh.ru/employer/598471",
+      "logo_urls": {
+        "original": "https://hhcdn.ru/employer-logo-original/479584.png",
+        "240": "https://hhcdn.ru/employer-logo/2360189.png",
+        "90": "https://hhcdn.ru/employer-logo/2360188.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=598471",
+      "trusted": true
+    },
+    "published_at": "2022-06-26T19:29:03+0300",
+    "created_at": "2022-06-26T19:29:03+0300",
+    "initial_created_at": "2022-06-17T19:29:03+0300",
+    "negotiations_url": null,
+    "suitable_resumes_url": null,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=66957210",
+    "has_test": false,
+    "test": null,
+    "alternate_url": "https://hh.ru/vacancy/66957210",
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": false,
+    "languages": []
+  },
+  {
+    "id": "67118445",
+    "premium": false,
+    "billing_type": {
+      "id": "standard_plus",
+      "name": "Стандарт плюс"
+    },
+    "relations": [],
+    "name": "Flutter разработчик / Flutter Developer",
+    "insider_interview": null,
+    "response_letter_required": false,
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": null,
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": {
+      "city": "Новомосковский административный округ",
+      "street": "Киевское шоссе, 22-й километр",
+      "building": "дв4с1кА",
+      "description": null,
+      "lat": 55.634151,
+      "lng": 37.441035,
+      "raw": "Новомосковский административный округ, Киевское шоссе, 22-й километр, дв4с1кА",
+      "metro": {
+        "station_name": "Румянцево",
+        "line_name": "Сокольническая",
+        "station_id": "1.513",
+        "line_id": "1",
+        "lat": 55.633,
+        "lng": 37.4419
+      },
+      "metro_stations": [
+        {
+          "station_name": "Румянцево",
+          "line_name": "Сокольническая",
+          "station_id": "1.513",
+          "line_id": "1",
+          "lat": 55.633,
+          "lng": 37.4419
+        }
+      ]
+    },
+    "allow_messages": true,
+    "experience": {
+      "id": "between1And3",
+      "name": "От 1 года до 3 лет"
+    },
+    "schedule": {
+      "id": "flexible",
+      "name": "Гибкий график"
+    },
+    "employment": {
+      "id": "part",
+      "name": "Частичная занятость"
+    },
+    "department": null,
+    "contacts": null,
+    "description": "<p>Компания «АНОН Технологии» - специализируется на разработке собственных высокотехнологичных продуктов (мобильные приложения, сайты, ПО) с использованием технологий искусственного интеллекта (ИИ). Наша компания имеет государственную аккредитацию в Министерстве связи и массовых коммуникаций</p> <p>Вакансия Flutter разработчик / Flutter Developer</p> <p><strong>Обязанности:</strong></p> <ul> <li>Разрабатывать собственные мобильные приложения и сайты компании;</li> <li>Участвовать в планировании и обсуждении разрабатываемого функционала;</li> </ul> <p><strong>Hard skills</strong>:</p> <ul> <li>Опыт разработки приложений на Flutter для Android и iOS;</li> <li>Опыт написания асинхронного кода;</li> <li>Опыт работы с BLoC, Firebase, Providers;</li> <li>Опыт взаимодействия с REST API;</li> <li>Работа с Git;</li> <li>Взаимодействие с командой;</li> <li>Опыт работы с Jira, Slack;</li> </ul> <p><strong>Преимуществом будет знания и опыт в:</strong></p> <ul> <li>Написании тестов;</li> <li>Знания английского выше Intermediate;</li> </ul> <p><strong>Soft skills</strong>:</p> <ul> <li>Умение слУшать и слЫшать, правильно вести диалог, задавать нужные вопросы и отстаивать свои взгляды;</li> <li>Не бояться обозначить проблему;</li> <li>Умение искать и находить необходимую информацию;</li> <li>Умение планировать, ставить реальные сроки выполнения задачи;</li> <li>Ответственность, внимательность и внимание к мелочам;</li> <li>Умение доводить дело до конца, нацеленность на результат;</li> <li>Умение работать в команде;</li> </ul> <strong>Требования:</strong> <ul> <li>У кандидатов мы ожидаем увидеть знания, достаточные для разработки и поддержки мобильных приложений и сайтов;</li> <li>Желателен опыт работы в создании мобильных приложений и сайтов (указать в портфолио);</li> <li>В том числе и студенты профильных специальностей технических и технологических вузов или недавний выпускники;</li> <li>Желательно умение декомпозировать бизнес требования в технические задачи;</li> <li>Приветствуется (но не обязательно) законченное или завершаемое высшее образование в области программирования;</li> <li>Инициативность, умение представлять свои идеи;</li> <li>Интерес к IT-сфере, желание развиваться и обучаться;</li> </ul> <strong>Условия:</strong> <ul> <li>Работа в комфортном офисе класса &quot;B+&quot; в 100 метрах от м.Румянцево;</li> <li>Устройство по ТК РФ;</li> <li>Широкий круг обязанностей;</li> <li>Работа в динамично развивающейся компании – есть все возможности для профессионального развития и карьерного роста;</li> <li>Возможность получения уникального опыта и знаний;</li> <li>Своевременная выплата з/п;</li> <li>Комфортные условия труда;</li> <li>Дружный коллектив, корпоративные мероприятия;</li> <li>Кофе/чай, шоколад/печенье в офисе;</li> <li>Имеется карьерный рост;</li> <li>Неполный рабочий день (почасовая оплата), гибкий график</li> <li>Возможность совмещать учёбу и работу</li> <li>Заработная плата по результатам собеседования;</li> </ul>",
+    "branded_description": null,
+    "vacancy_constructor_template": null,
+    "key_skills": [
+      {
+        "name": "Flutter"
+      },
+      {
+        "name": "Firebase"
+      },
+      {
+        "name": "REST API"
+      },
+      {
+        "name": "BLoC"
+      },
+      {
+        "name": "Providers"
+      },
+      {
+        "name": "Git"
+      },
+      {
+        "name": "Android"
+      },
+      {
+        "name": "iOS"
+      },
+      {
+        "name": "Dart"
+      },
+      {
+        "name": "Jira"
+      }
+    ],
+    "accept_handicapped": false,
+    "accept_kids": false,
+    "archived": false,
+    "response_url": null,
+    "specializations": [
+      {
+        "id": "1.221",
+        "name": "Программирование, Разработка",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.50",
+        "name": "Системы управления предприятием (ERP)",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.82",
+        "name": "Инженер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.9",
+        "name": "Web инженер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.10",
+        "name": "Web мастер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      }
+    ],
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "code": null,
+    "hidden": false,
+    "quick_responses_allowed": false,
+    "driver_license_types": [],
+    "accept_incomplete_resumes": false,
+    "employer": {
+      "id": "6154494",
+      "name": "Анон Технологии",
+      "url": "https://api.hh.ru/employers/6154494",
+      "alternate_url": "https://hh.ru/employer/6154494",
+      "logo_urls": {
+        "original": "https://hhcdn.ru/employer-logo-original/958123.jpg",
+        "90": "https://hhcdn.ru/employer-logo/4273020.jpeg",
+        "240": "https://hhcdn.ru/employer-logo/4273021.jpeg"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6154494",
+      "trusted": true
+    },
+    "published_at": "2022-06-26T12:31:12+0300",
+    "created_at": "2022-06-26T12:31:12+0300",
+    "initial_created_at": "2022-06-23T12:31:12+0300",
+    "negotiations_url": null,
+    "suitable_resumes_url": null,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=67118445",
+    "has_test": false,
+    "test": null,
+    "alternate_url": "https://hh.ru/vacancy/67118445",
+    "working_days": [],
+    "working_time_intervals": [
+      {
+        "id": "from_four_to_six_hours_in_a_day",
+        "name": "Можно работать сменами по 4–6 часов в день"
+      }
+    ],
+    "working_time_modes": [],
+    "accept_temporary": true,
+    "languages": [
+      {
+        "id": "eng",
+        "name": "Английский",
+        "level": {
+          "id": "b1",
+          "name": "B1 — Средний"
+        }
+      }
+    ]
+  },
+  {
+    "id": "67115741",
+    "premium": false,
+    "billing_type": {
+      "id": "standard_plus",
+      "name": "Стандарт плюс"
+    },
+    "relations": [],
+    "name": "Flutter разработчик",
+    "insider_interview": null,
+    "response_letter_required": false,
+    "area": {
+      "id": "2",
+      "name": "Санкт-Петербург",
+      "url": "https://api.hh.ru/areas/2"
+    },
+    "salary": {
+      "from": 200000,
+      "to": 290000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": {
+      "city": "Санкт-Петербург",
+      "street": "Левашовский проспект",
+      "building": "11/7с4",
+      "description": null,
+      "lat": 59.967592,
+      "lng": 30.289107,
+      "raw": "Санкт-Петербург, Левашовский проспект, 11/7с4",
+      "metro": {
+        "station_name": "Петроградская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.215",
+        "line_id": "15",
+        "lat": 59.966389,
+        "lng": 30.311293
+      },
+      "metro_stations": [
+        {
+          "station_name": "Петроградская",
+          "line_name": "Московско-Петроградская",
+          "station_id": "15.215",
+          "line_id": "15",
+          "lat": 59.966389,
+          "lng": 30.311293
+        },
+        {
+          "station_name": "Чкаловская",
+          "line_name": "Фрунзенско-Приморская",
+          "station_id": "18.248",
+          "line_id": "18",
+          "lat": 59.961033,
+          "lng": 30.292006
+        }
+      ]
+    },
+    "allow_messages": true,
+    "experience": {
+      "id": "between3And6",
+      "name": "От 3 до 6 лет"
+    },
+    "schedule": {
+      "id": "remote",
+      "name": "Удаленная работа"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "department": null,
+    "contacts": null,
+    "description": "<p>Мы c 2007 года занимаемся продуктовой финтех-разработкой и запустили несколько собственных продуктов, в том числе и на европейском рынке. Сейчас наша команда разрабатывает новый цифровой банк для Узбекистана. Мы пишем его с нуля, легаси в проекте отсутствует. Этот продукт тоже наш, не аутсорс/аутстафф.</p> <p>В нашей команде — разработчики с большим опытом в финтехе, высоконагруженных системах и кибербезопасности. С нами комфортно работать и отлично отдыхать!</p> <p>Мы активно расширяемся, поэтому мы в поиске <strong>Flutter разработчика</strong> к нам в команду<strong>. </strong>Возможен как полностью удалённый, так и гибридный формат работы в Санкт-Петербурге.</p> <p><strong>Стек:</strong></p> <p>- платформы: Android, iOS;<br />- архитектура и управление состоянием: BLoC + Clean Architecture;<br />- Dependency Injection: Kiwi;<br />- сеть: Dio;<br />- база данных: Hive;<br />- UI: Мультиплатформенный UIKit и Storybook;<br />- локализация: Intl + IDE plugin;<br />- пуши: Firebase Messaging + Huawei Push Kit;<br />- тестирование: test, mockito, bloc_test;<br />- Tooling: Android Studio, VS Code, XCode, Android ADB, Genymotion, Fork, Proxyman, HTTP Toolkit, Flipper, Postman, Firebase, Figma, Miro, CI/CD.</p> <p><strong>Опыт:</strong><br /><br />- опыт работы с Flutter;<br />- опыт в коммерческой разработке нативных приложений от 2-х лет;<br />- опыт в коммерческой разработке на Flutter от 1 года;<br />- опыт разработки клиент-серверных приложений;<br />- понимание REST API;<br />- понимание архитектурных паттернов (BLoC, Clean Architecture, MVI, MVVM, MVP);<br />- опыт использования Dependency Injection;<br />- опыт тестирования мобильных приложений;<br />- знание английского на уровне чтения технической документации.<br /><br />Плюсом будут навыки работы с Jetpack Compose, Firebase, Huawei Mobile Services, Camera, Camera2 API, CameraX, KeyStore, Realm, NDK, Java JNI, OpenGL, Swift UI, Firebase, AVFoundation, KeyChain, Realm, CoreData, Metal.</p> <p><strong>У нас:</strong></p> <p>- офис в шаговой доступности от м. Чкаловская;<br />- помощь с релокацией в Петербург;<br />- мама нашего СТО печет для нас печенье в промышленных масштабах;<br />- возможности для профессионального роста и развития: оплачиваемые курсы и конференции;<br />- возможность влиять на процессы и инициировать их: руководители всегда готовы к диалогу;<br />- комфортный график работы с гибким началом рабочего дня;<br />- рабочая техника на Mac OS;<br />- оформление по ТК РФ.</p>",
+    "branded_description": null,
+    "vacancy_constructor_template": null,
+    "key_skills": [
+      {
+        "name": "iOS"
+      },
+      {
+        "name": "Android"
+      },
+      {
+        "name": "Flutter"
+      },
+      {
+        "name": "REST API"
+      }
+    ],
+    "accept_handicapped": false,
+    "accept_kids": false,
+    "archived": false,
+    "response_url": null,
+    "specializations": [
+      {
+        "id": "1.221",
+        "name": "Программирование, Разработка",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.50",
+        "name": "Системы управления предприятием (ERP)",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.82",
+        "name": "Инженер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.9",
+        "name": "Web инженер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.10",
+        "name": "Web мастер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      }
+    ],
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "code": null,
+    "hidden": false,
+    "quick_responses_allowed": false,
+    "driver_license_types": [],
+    "accept_incomplete_resumes": false,
+    "employer": {
+      "id": "5735851",
+      "name": "Codex Optimus",
+      "url": "https://api.hh.ru/employers/5735851",
+      "alternate_url": "https://hh.ru/employer/5735851",
+      "logo_urls": {
+        "original": "https://hhcdn.ru/employer-logo-original/893546.png",
+        "90": "https://hhcdn.ru/employer-logo/4014871.png",
+        "240": "https://hhcdn.ru/employer-logo/4014872.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5735851",
+      "trusted": true
+    },
+    "published_at": "2022-06-26T11:51:12+0300",
+    "created_at": "2022-06-26T11:51:12+0300",
+    "initial_created_at": "2022-06-23T11:51:12+0300",
+    "negotiations_url": null,
+    "suitable_resumes_url": null,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=67115741",
+    "has_test": false,
+    "test": null,
+    "alternate_url": "https://hh.ru/vacancy/67115741",
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": false,
+    "languages": []
+  },
+  {
+    "id": "66981096",
+    "premium": false,
+    "billing_type": {
+      "id": "standard_plus",
+      "name": "Стандарт плюс"
+    },
+    "relations": [],
+    "name": "Flutter Developer",
+    "insider_interview": null,
+    "response_letter_required": false,
+    "area": {
+      "id": "2759",
+      "name": "Ташкент",
+      "url": "https://api.hh.ru/areas/2759"
+    },
+    "salary": {
+      "from": 8000000,
+      "to": null,
+      "currency": "UZS",
+      "gross": false
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": {
+      "city": "Ташкент",
+      "street": "улица Эски-Сарикул",
+      "building": null,
+      "description": null,
+      "lat": 41.277032,
+      "lng": 69.297748,
+      "raw": "Ташкент, улица Эски-Сарикул",
+      "metro": null,
+      "metro_stations": []
+    },
+    "allow_messages": true,
+    "experience": {
+      "id": "between3And6",
+      "name": "От 3 до 6 лет"
+    },
+    "schedule": {
+      "id": "fullDay",
+      "name": "Полный день"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "department": null,
+    "contacts": null,
+    "description": "<p>Мы ищем в нашу команду разработчиков коллегу-товарища, который поможет нам сделать наш продукт еще лучше и действительно разбирается во Flutter разработке.</p> <p>Если ты не за бюрократию, а за результат и идею, то тебе к нам.</p> <p>Сейчас, продукт уже в разработке, ты нужен нам чтобы применить все свои знания, построить его так как ты видишь.</p> <p>Мы уверены, что в будущем наш продукт станет показательным примером в твоей карьере!</p> <p>Задача: разработать кросс-платформенное мобильное приложение, которое покорит рынок и управлять командой мобайл разработчиков</p> <p>Требования:</p> <p>Опыт работы с Flutter и Dart от года;<br />Опыт разработки под Android или iOS от 2-х лет;<br />Опыт в коммерческой разработке на Flutter 2+ лет;<br />Опыт разработки клиент-серверных приложений;<br />Понимание REST API;<br />Знание современных архитектурных паттернов в мобильной разработке (MVP) и принципов функционального программирования;<br />Опыт разработки клиент-серверных приложений (REST, JSON);<br />Опыт работы с Git, знание git flow;<br />Стремление к чистому, опрятному коду.</p> <p>У нас:</p> <p>Офис в Ташкенте, начало рабочего дня с 8:30 до 17:30<br />Добрый современный коллектив разной прокаченности готов научить или научиться у тебя новому,<br />Реальная возможность создать свою команду мобильной разработки;<br />Сформированная корпоративная культура, конференции, проекты разного уровня от простых микросервисов до highload, BigData, современный стек и уникальный опыт — все это мы готовы дать тебе;<br />Итоговая заработная плата зависит от ваших компетенций и определяется по результатам собеседования. Все зависит от того, как вы себя проявите.</p>",
+    "branded_description": null,
+    "vacancy_constructor_template": null,
+    "key_skills": [
+      {
+        "name": "Git"
+      },
+      {
+        "name": "Dart"
+      },
+      {
+        "name": "Flutter"
+      },
+      {
+        "name": "JSON API"
+      },
+      {
+        "name": "Android"
+      },
+      {
+        "name": "REST API"
+      },
+      {
+        "name": "REST"
+      },
+      {
+        "name": "SOLID"
+      },
+      {
+        "name": "ООП"
+      },
+      {
+        "name": "Мобильные приложения"
+      }
+    ],
+    "accept_handicapped": false,
+    "accept_kids": false,
+    "archived": false,
+    "response_url": null,
+    "specializations": [
+      {
+        "id": "1.221",
+        "name": "Программирование, Разработка",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.50",
+        "name": "Системы управления предприятием (ERP)",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.82",
+        "name": "Инженер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.9",
+        "name": "Web инженер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.10",
+        "name": "Web мастер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      }
+    ],
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "code": null,
+    "hidden": false,
+    "quick_responses_allowed": false,
+    "driver_license_types": [],
+    "accept_incomplete_resumes": false,
+    "employer": {
+      "id": "3303228",
+      "name": "HamkorBank",
+      "url": "https://api.hh.ru/employers/3303228",
+      "alternate_url": "https://hh.ru/employer/3303228",
+      "logo_urls": {
+        "240": "https://hhcdn.ru/employer-logo/2932025.png",
+        "90": "https://hhcdn.ru/employer-logo/2932024.png",
+        "original": "https://hhcdn.ru/employer-logo-original/622718.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3303228",
+      "trusted": true
+    },
+    "published_at": "2022-06-26T10:29:45+0300",
+    "created_at": "2022-06-26T10:29:45+0300",
+    "initial_created_at": "2022-06-20T10:29:45+0300",
+    "negotiations_url": null,
+    "suitable_resumes_url": null,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=66981096",
+    "has_test": false,
+    "test": null,
+    "alternate_url": "https://hh.ru/vacancy/66981096",
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": false,
+    "languages": [
+      {
+        "id": "rus",
+        "name": "Русский",
+        "level": {
+          "id": "b2",
+          "name": "B2 — Средне-продвинутый"
+        }
+      }
+    ]
+  },
+  {
+    "id": "67001028",
+    "premium": false,
+    "billing_type": {
+      "id": "standard_plus",
+      "name": "Стандарт плюс"
+    },
+    "relations": [],
+    "name": "Мобильный разработчик Flutter",
+    "insider_interview": null,
+    "response_letter_required": false,
+    "area": {
+      "id": "54",
+      "name": "Красноярск",
+      "url": "https://api.hh.ru/areas/54"
+    },
+    "salary": {
+      "from": 50000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "type": {
+      "id": "open",
+      "name": "Открытая"
+    },
+    "address": null,
+    "allow_messages": true,
+    "experience": {
+      "id": "between1And3",
+      "name": "От 1 года до 3 лет"
+    },
+    "schedule": {
+      "id": "fullDay",
+      "name": "Полный день"
+    },
+    "employment": {
+      "id": "full",
+      "name": "Полная занятость"
+    },
+    "department": null,
+    "contacts": null,
+    "description": "<p><strong>О нас:</strong></p> <p>Приветствуем тебя,наш будущий партнер! Мы молодая но перспективная команда,состоящая из опытных руководителей и молодых специалистов.У нас большие,но реальные цели с расчетом минимум на 5 лет.Сегодня мы разрабатываем уникальный(гарантируем) проект для Российского рынка.И нам очень нужен талантливый мобильный разработчик с большими амбициями и горящим сердцем. Мы ценим своих сотрудников и дорожим их доверием.Сегодня мы вместе создаем наше будущее.Выбери нас и ты не ошибешься!</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li> <p>Разработка приложений и плагинов на Flutter для платформ iOS и Android;</p> </li> <li> <p>Оценка задач по разработке;</p> </li> <li> <p>Поддержка и рефакторинг кодовой базы;</p> </li> <li> <p>Написание Unit-тестов;</p> </li> <li> <p>Интеграция с бэкэндом;</p> </li> <li> <p>Поддерживать и разрабатывать новые функциональные возможности проекта;</p> </li> <li> <p>Писать код самостоятельно и принимать решения о выборе технологий;</p> </li> <li> <p>Взаимодействовать с командой разработки и менеджерами.</p> </li> </ul> <p><strong><strong>От вас ожидаем:</strong></strong></p> <ul> <li> <p>Опыт разработки клиент-серверных приложений от 1 года;</p> </li> <li> <p>Опыт работы с JSON, REST API;</p> </li> <li> <p>Уверенное владение Dart и Flutter и опыт разработки приложений на Flutter от 1 года;</p> </li> <li> <p><strong>Опыт работы с git;</strong></p> </li> </ul> <ul> <li> <p>Навыки разработки на фреймворке Google Flutter;</p> </li> <li> <p>Опыт работы с БД (написание SQL запросов);</p> </li> <li> <p>Понимание принципов RESTful API;</p> </li> <li> <p>Понимание архитектурных паттернов (MVP, MVVM и проч);</p> </li> <li> <p>Опыт разработки асинхронного/многопоточного кода;</p> </li> <li> <p>Желание учиться и находить решения возникающих проблем;</p> </li> <li> <p>Самостоятельность и способность к самоорганизации в рамках проектной команды.</p> </li> </ul> <p><strong><strong>Будет несомненным плюсом:</strong></strong></p> <ul> <li> <p>Навыки UI/UX-дизайна, опыт работы с приложениями проектирования интерфейсов (Figma, Sketch, Adobe XD и проч.);</p> </li> <li> <p>Понимание DevOps-процессов;</p> </li> <li> <p>Опыт автоматизации сборки/тестирования мобильных приложений.</p> <p><strong><strong>Условия:</strong></strong></p> </li> </ul> <ul> <li> <p>График работы: 5/2, с 9.00ч. до 18.00 ч. в офисе</p> </li> <li> <p>Возможность удаленной работы после прохождения испытательного срока.</p> </li> <li> <p>Официальное оформление по ТК РФ,белая растущая зарплата;</p> <p><strong><strong>Дополнительные &quot;плюшки&quot;:</strong></strong></p> </li> <li> <p>Работа в стабильной, стремительно развивающейся компании;</p> </li> <li> <p>Молодая, дружная команда it-специалистов, с нами интересно));</p> </li> <li> <p>Карьерный рост и повышение квалификации;</p> </li> <li> <p><strong>Оформление опциона:</strong> <strong>RSU</strong></p> </li> </ul> <p> </p> <p> </p>",
+    "branded_description": null,
+    "vacancy_constructor_template": null,
+    "key_skills": [
+      {
+        "name": "Dart"
+      },
+      {
+        "name": "Flutter"
+      },
+      {
+        "name": "Git"
+      },
+      {
+        "name": "REST"
+      },
+      {
+        "name": "SQL"
+      }
+    ],
+    "accept_handicapped": false,
+    "accept_kids": false,
+    "archived": false,
+    "response_url": null,
+    "specializations": [
+      {
+        "id": "1.221",
+        "name": "Программирование, Разработка",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.50",
+        "name": "Системы управления предприятием (ERP)",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.82",
+        "name": "Инженер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.9",
+        "name": "Web инженер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      },
+      {
+        "id": "1.10",
+        "name": "Web мастер",
+        "profarea_id": "1",
+        "profarea_name": "Информационные технологии, интернет, телеком"
+      }
+    ],
+    "professional_roles": [
+      {
+        "id": "96",
+        "name": "Программист, разработчик"
+      }
+    ],
+    "code": null,
+    "hidden": false,
+    "quick_responses_allowed": false,
+    "driver_license_types": [],
+    "accept_incomplete_resumes": false,
+    "employer": {
+      "id": "4368339",
+      "name": "УРАБИ",
+      "url": "https://api.hh.ru/employers/4368339",
+      "alternate_url": "https://hh.ru/employer/4368339",
+      "logo_urls": {
+        "original": "https://hhcdn.ru/employer-logo-original/799718.png",
+        "90": "https://hhcdn.ru/employer-logo/3639759.png",
+        "240": "https://hhcdn.ru/employer-logo/3639760.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4368339",
+      "trusted": true
+    },
+    "published_at": "2022-06-26T15:46:01+0300",
+    "created_at": "2022-06-26T15:46:01+0300",
+    "initial_created_at": "2022-06-20T15:46:01+0300",
+    "negotiations_url": null,
+    "suitable_resumes_url": null,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=67001028",
+    "has_test": false,
+    "test": null,
+    "alternate_url": "https://hh.ru/vacancy/67001028",
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": false,
+    "languages": []
+  }
+]
