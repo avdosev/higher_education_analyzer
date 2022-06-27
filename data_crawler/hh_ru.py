@@ -14,6 +14,7 @@ async def main():
     os.makedirs(base_dir, exist_ok=True)
     start_from = None
     page_size = 20
+    limit_pages_to_keyword = 20
     # run
     
     async with ClientSession() as session:
@@ -23,6 +24,7 @@ async def main():
             with open(f'{output_dir}/{"_".join(keyword.split(" "))}.json', 'w') as bf:
                 find_result = await find_by_keywords(session, keyword, 0, 1)
                 pages = find_result['found'] // page_size
+                pages = min(pages, limit_pages_to_keyword)
                 print(f'{keyword}: {pages} pages')
                 for i in range(pages):
                     print('page:', i)
