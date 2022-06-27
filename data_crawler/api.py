@@ -2,11 +2,12 @@ from aiohttp import ClientSession
 _base_url = 'https://api.hh.ru'
 
 async def get(session: ClientSession, url, params = None):
-    async with session.get(url, params=params) as response:
+    async with session.get(url, params=params, headers={'User-Agent': 'api-test-agent'}) as response:
         if response.status == 404:
             return None
         
         if response.status != 200:
+            print(f'Bad response {response.status}: {await response.text()}')
             return None
 
         return await response.json()
@@ -29,12 +30,12 @@ async def find_by_keywords(session: ClientSession, key_words: str, page: int, pa
 
     async with session.get(url=url, params=params) as response:
         if response.status == 404:
-            return []
+            return None
 
         if response.status != 200:
             print(f'Cannot find vacancies by key words: {key_words}, page: {page}, page_size: {page_size}')
             print(response.status, await response.text())
-            return []
+            return None
 
         vacancy_list = await response.json()
 

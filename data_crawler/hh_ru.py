@@ -13,21 +13,27 @@ async def main():
     os.makedirs(output_dir, exist_ok=True)
     os.makedirs(base_dir, exist_ok=True)
     start_from = None
+    page_size = 20
     # run
     
     async with ClientSession() as session:
         keywords = readlines('keywords.txt')
-        
+
         for keyword in keywords:
-            with open(f'{output_dir}/{"_".join(keyword.split(" "))}.json', 'a') as bf:
-                find_result = await find_by_keywords(session, keyword, 0, 50)
-                if find_result is None:
-                    continue
-                ids = extract_ids(find_result)
-                vacancies = await asyncio.gather(*[asyncio.create_task(get_vacany(session, id)) for id in ids])
-                bump_list(bf, vacancies)
-                with open(f'{base_dir}/log.json', 'w', encoding='utf-8') as f:
-                    json.dump(vacancies, f, indent=2, ensure_ascii=False)
+            with open(f'{output_dir}/{"_".join(keyword.split(" "))}.json', 'w') as bf:
+                find_result = await find_by_keywords(session, keyword, 0, 1)
+                pages = find_result['found'] // page_size
+                print(f'{keyword}: {pages} pages')
+                for i in range(pages):
+                    print('page:', i)
+                    find_result = await find_by_keywords(session, keyword, i, page_size)
+                    if find_result is None:
+                        break
+                    ids = extract_ids(find_result)
+                    vacancies = await asyncio.gather(*[asyncio.create_task(get_vacany(session, id)) for id in ids])
+                    bump_list(bf, vacancies)
+                    with open(f'{base_dir}/log.json', 'w', encoding='utf-8') as f:
+                        json.dump(find_result, f, indent=2, ensure_ascii=False)
 
 def extract_ids(vacancies):
     for vacancy in vacancies['items']:
