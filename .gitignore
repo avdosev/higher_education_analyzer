@@ -130,3 +130,5 @@ dmypy.json
 
 # my
 data
+*.bin
+*.gz
