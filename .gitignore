@@ -132,3 +132,6 @@ dmypy.json
 data
 *.bin
 *.gz
+
+sensitive_data
+sensitive_data/openai_api_key.txt
